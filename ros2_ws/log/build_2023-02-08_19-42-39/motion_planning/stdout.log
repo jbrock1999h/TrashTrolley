@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/motion_planning/motion_planning.egg-info
+writing ../../build/motion_planning/motion_planning.egg-info/PKG-INFO
+writing dependency_links to ../../build/motion_planning/motion_planning.egg-info/dependency_links.txt
+writing entry points to ../../build/motion_planning/motion_planning.egg-info/entry_points.txt
+writing requirements to ../../build/motion_planning/motion_planning.egg-info/requires.txt
+writing top-level names to ../../build/motion_planning/motion_planning.egg-info/top_level.txt
+writing manifest file '../../build/motion_planning/motion_planning.egg-info/SOURCES.txt'
+reading manifest file '../../build/motion_planning/motion_planning.egg-info/SOURCES.txt'
+writing manifest file '../../build/motion_planning/motion_planning.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/josh/ros2_ws/build/motion_planning/build
+creating /home/josh/ros2_ws/build/motion_planning/build/lib
+creating /home/josh/ros2_ws/build/motion_planning/build/lib/motion_planning
+copying motion_planning/__init__.py -> /home/josh/ros2_ws/build/motion_planning/build/lib/motion_planning
+running install
+running install_lib
+creating /home/josh/ros2_ws/install/motion_planning/lib/python3.10/site-packages/motion_planning
+copying /home/josh/ros2_ws/build/motion_planning/build/lib/motion_planning/__init__.py -> /home/josh/ros2_ws/install/motion_planning/lib/python3.10/site-packages/motion_planning
+byte-compiling /home/josh/ros2_ws/install/motion_planning/lib/python3.10/site-packages/motion_planning/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/josh/ros2_ws/install/motion_planning/share/ament_index
+creating /home/josh/ros2_ws/install/motion_planning/share/ament_index/resource_index
+creating /home/josh/ros2_ws/install/motion_planning/share/ament_index/resource_index/packages
+copying resource/motion_planning -> /home/josh/ros2_ws/install/motion_planning/share/ament_index/resource_index/packages
+copying package.xml -> /home/josh/ros2_ws/install/motion_planning/share/motion_planning
+running install_egg_info
+Copying ../../build/motion_planning/motion_planning.egg-info to /home/josh/ros2_ws/install/motion_planning/lib/python3.10/site-packages/motion_planning-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/josh/ros2_ws/build/motion_planning/install.log'

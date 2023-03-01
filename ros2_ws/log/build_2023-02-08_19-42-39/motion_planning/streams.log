@@ -1,0 +1,33 @@
+[0.365s] Invoking command in '/home/josh/ros2_ws/src/motion_planning': PYTHONPATH=/home/josh/ros2_ws/build/motion_planning/prefix_override:/home/josh/ros2_ws/install/motion_planning/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/motion_planning build --build-base /home/josh/ros2_ws/build/motion_planning/build install --record /home/josh/ros2_ws/build/motion_planning/install.log --single-version-externally-managed
+[0.505s] running egg_info
+[0.505s] creating ../../build/motion_planning/motion_planning.egg-info
+[0.505s] writing ../../build/motion_planning/motion_planning.egg-info/PKG-INFO
+[0.505s] writing dependency_links to ../../build/motion_planning/motion_planning.egg-info/dependency_links.txt
+[0.505s] writing entry points to ../../build/motion_planning/motion_planning.egg-info/entry_points.txt
+[0.506s] writing requirements to ../../build/motion_planning/motion_planning.egg-info/requires.txt
+[0.506s] writing top-level names to ../../build/motion_planning/motion_planning.egg-info/top_level.txt
+[0.506s] writing manifest file '../../build/motion_planning/motion_planning.egg-info/SOURCES.txt'
+[0.507s] reading manifest file '../../build/motion_planning/motion_planning.egg-info/SOURCES.txt'
+[0.507s] writing manifest file '../../build/motion_planning/motion_planning.egg-info/SOURCES.txt'
+[0.507s] running build
+[0.507s] running build_py
+[0.507s] creating /home/josh/ros2_ws/build/motion_planning/build
+[0.507s] creating /home/josh/ros2_ws/build/motion_planning/build/lib
+[0.507s] creating /home/josh/ros2_ws/build/motion_planning/build/lib/motion_planning
+[0.508s] copying motion_planning/__init__.py -> /home/josh/ros2_ws/build/motion_planning/build/lib/motion_planning
+[0.508s] running install
+[0.508s] running install_lib
+[0.508s] creating /home/josh/ros2_ws/install/motion_planning/lib/python3.10/site-packages/motion_planning
+[0.508s] copying /home/josh/ros2_ws/build/motion_planning/build/lib/motion_planning/__init__.py -> /home/josh/ros2_ws/install/motion_planning/lib/python3.10/site-packages/motion_planning
+[0.508s] byte-compiling /home/josh/ros2_ws/install/motion_planning/lib/python3.10/site-packages/motion_planning/__init__.py to __init__.cpython-310.pyc
+[0.508s] running install_data
+[0.509s] creating /home/josh/ros2_ws/install/motion_planning/share/ament_index
+[0.509s] creating /home/josh/ros2_ws/install/motion_planning/share/ament_index/resource_index
+[0.509s] creating /home/josh/ros2_ws/install/motion_planning/share/ament_index/resource_index/packages
+[0.509s] copying resource/motion_planning -> /home/josh/ros2_ws/install/motion_planning/share/ament_index/resource_index/packages
+[0.509s] copying package.xml -> /home/josh/ros2_ws/install/motion_planning/share/motion_planning
+[0.509s] running install_egg_info
+[0.510s] Copying ../../build/motion_planning/motion_planning.egg-info to /home/josh/ros2_ws/install/motion_planning/lib/python3.10/site-packages/motion_planning-0.0.0-py3.10.egg-info
+[0.510s] running install_scripts
+[0.522s] writing list of installed files to '/home/josh/ros2_ws/build/motion_planning/install.log'
+[0.544s] Invoked command in '/home/josh/ros2_ws/src/motion_planning' returned '0': PYTHONPATH=/home/josh/ros2_ws/build/motion_planning/prefix_override:/home/josh/ros2_ws/install/motion_planning/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/motion_planning build --build-base /home/josh/ros2_ws/build/motion_planning/build install --record /home/josh/ros2_ws/build/motion_planning/install.log --single-version-externally-managed
