@@ -1,0 +1,18 @@
+[0.304s] Invoking command in '/home/josh/ros2_ws/build/my_py_pkg': PYTHONPATH=/home/josh/ros2_ws/build/my_py_pkg/prefix_override:/home/josh/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/josh/ros2_ws/build/my_py_pkg/build --no-deps install_data
+[0.434s] running develop
+[0.502s] running egg_info
+[0.502s] writing my_py_pkg.egg-info/PKG-INFO
+[0.503s] writing dependency_links to my_py_pkg.egg-info/dependency_links.txt
+[0.503s] writing entry points to my_py_pkg.egg-info/entry_points.txt
+[0.503s] writing requirements to my_py_pkg.egg-info/requires.txt
+[0.503s] writing top-level names to my_py_pkg.egg-info/top_level.txt
+[0.504s] reading manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[0.504s] writing manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[0.505s] running build_ext
+[0.505s] Creating /home/josh/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my-py-pkg.egg-link (link to .)
+[0.505s] Installing py_node script to /home/josh/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.505s] Installing robot_news_station script to /home/josh/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.505s] 
+[0.506s] Installed /home/josh/ros2_ws/build/my_py_pkg
+[0.506s] running install_data
+[0.522s] Invoked command in '/home/josh/ros2_ws/build/my_py_pkg' returned '0': PYTHONPATH=/home/josh/ros2_ws/build/my_py_pkg/prefix_override:/home/josh/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/josh/ros2_ws/build/my_py_pkg/build --no-deps install_data
