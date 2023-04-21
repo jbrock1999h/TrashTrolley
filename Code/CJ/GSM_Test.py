@@ -1,7 +1,7 @@
 import time
 import serial
 
-recipient = "+1234567890"
+recipient = "+12282163723"
 message = "Hello, World!"
 
 phone = serial.Serial("/dev/ttyACM0",  460800, timeout=5)
